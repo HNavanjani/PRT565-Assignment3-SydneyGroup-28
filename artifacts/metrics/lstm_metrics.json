@@ -1,0 +1,11 @@
+{
+    "model": "LSTM",
+    "accuracy": 0.9,
+    "precision": 1.0,
+    "recall": 0.7857142857142857,
+    "f1_score": 0.88,
+    "roc_auc": 0.9475446428571428,
+    "epochs_trained": 49,
+    "final_train_loss": 0.2879805564880371,
+    "final_val_loss": 0.4082486927509308
+}
